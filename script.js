@@ -18,7 +18,6 @@
 
 
 //Method 2 which is more recommendable
-cd
 const count = document.querySelector('.count');
 const buttons = document.querySelector('.buttons');
 
