@@ -59,6 +59,8 @@ img{
 
 .count{
     font-size:4rem;
+    border: 1px solid #fff;
+    padding: 0px 10px;
 }
 
 .buttons button{
